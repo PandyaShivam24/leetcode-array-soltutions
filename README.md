@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -45,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -80,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0287-find-the-duplicate-number) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
