@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0189-rotate-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
