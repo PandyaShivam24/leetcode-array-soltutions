@@ -8,16 +8,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0189-rotate-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0189-rotate-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0011-container-with-most-water) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Matrix
 |  |
