@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0011-container-with-most-water) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Matrix
@@ -124,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0128-longest-consecutive-sequence) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
