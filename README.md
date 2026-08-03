@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2895-minimum-processing-time](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2895-minimum-processing-time) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0011-container-with-most-water) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2895-minimum-processing-time](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2895-minimum-processing-time) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2895-minimum-processing-time](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2895-minimum-processing-time) |
 ## Matrix
 |  |
 | ------- |
