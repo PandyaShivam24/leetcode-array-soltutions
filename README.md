@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0164-maximum-gap) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0287-find-the-duplicate-number) |
 ## Quickselect
 |  |
