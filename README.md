@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
