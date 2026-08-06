@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2079-watering-plants](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2079-watering-plants) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2895-minimum-processing-time](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2895-minimum-processing-time) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0164-maximum-gap) |
+## Simulation
+|  |
+| ------- |
+| [2079-watering-plants](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2079-watering-plants) |
 <!---LeetCode Topics End-->
