@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -140,11 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0287-find-the-duplicate-number) |
 ## Quickselect
 |  |
