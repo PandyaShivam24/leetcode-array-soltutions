@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2895-minimum-processing-time](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2895-minimum-processing-time) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2079-watering-plants](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3925-concatenate-array-with-reverse](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
