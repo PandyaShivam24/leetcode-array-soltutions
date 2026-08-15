@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2895-minimum-processing-time](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2895-minimum-processing-time) |
+| [3467-transform-array-by-parity](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3467-transform-array-by-parity) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2895-minimum-processing-time](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2895-minimum-processing-time) |
+| [3467-transform-array-by-parity](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3467-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3467-transform-array-by-parity](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
