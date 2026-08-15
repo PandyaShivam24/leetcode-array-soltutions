@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2895-minimum-processing-time](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2895-minimum-processing-time) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3467-transform-array-by-parity) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
