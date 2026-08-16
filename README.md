@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2895-minimum-processing-time](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2895-minimum-processing-time) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
