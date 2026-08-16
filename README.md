@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0120-triangle) |
 | [0877-stone-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
