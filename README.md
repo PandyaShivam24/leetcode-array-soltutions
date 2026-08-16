@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2079-watering-plants](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2079-watering-plants) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -238,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1816-truncate-sentence](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1816-truncate-sentence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
