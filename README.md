@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1480-running-sum-of-1d-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1929-concatenation-of-array) |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [1816-truncate-sentence](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1816-truncate-sentence) |
 <!---LeetCode Topics End-->
