@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Pigeonhole Principle
 |  |
@@ -250,4 +253,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1816-truncate-sentence](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
