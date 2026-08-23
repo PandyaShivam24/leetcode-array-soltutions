@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1929-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1816-truncate-sentence](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
