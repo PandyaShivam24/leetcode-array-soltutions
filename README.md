@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1929-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2974-minimum-number-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1816-truncate-sentence](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2390-removing-stars-from-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
