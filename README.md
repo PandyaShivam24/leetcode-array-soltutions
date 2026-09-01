@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3941-password-strength](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3941-password-strength) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3794-reverse-string-prefix) |
+| [3941-password-strength](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3941-password-strength) |
 ## Dynamic Programming
 |  |
 | ------- |
