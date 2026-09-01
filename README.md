@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2390-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2785-sort-vowels-in-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2785-sort-vowels-in-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Dynamic Programming
 |  |
 | ------- |
