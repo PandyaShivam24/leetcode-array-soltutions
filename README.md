@@ -48,7 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
-| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2079-watering-plants](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2079-watering-plants) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -177,7 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1833-maximum-ice-cream-bars) |
-| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3467-transform-array-by-parity](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
@@ -205,7 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
-| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3731-find-missing-elements) |
@@ -284,7 +281,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
-| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
