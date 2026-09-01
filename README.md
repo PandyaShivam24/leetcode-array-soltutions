@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2785-sort-vowels-in-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3110-score-of-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
