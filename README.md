@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0058-length-of-last-word) |
 | [0537-complex-number-multiplication](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0537-complex-number-multiplication) |
+| [0709-to-lower-case](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0709-to-lower-case) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
