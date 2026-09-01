@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0242-valid-anagram) |
 | [0537-complex-number-multiplication](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0537-complex-number-multiplication) |
 | [0709-to-lower-case](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0771-jewels-and-stones) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
