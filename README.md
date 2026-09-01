@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## String
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2390-removing-stars-from-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2390-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
