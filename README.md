@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3467-transform-array-by-parity](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3110-score-of-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3227-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
