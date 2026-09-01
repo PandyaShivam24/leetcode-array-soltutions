@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3227-vowels-game-in-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3227-vowels-game-in-a-string) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3227-vowels-game-in-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3227-vowels-game-in-a-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3110-score-of-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3110-score-of-a-string) |
+| [3227-vowels-game-in-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3227-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2185-counting-words-with-a-given-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
