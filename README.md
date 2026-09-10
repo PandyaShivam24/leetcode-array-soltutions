@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0234-palindrome-linked-list) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0237-delete-node-in-a-linked-list) |
