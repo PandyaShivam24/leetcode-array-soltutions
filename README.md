@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0237-delete-node-in-a-linked-list) |
