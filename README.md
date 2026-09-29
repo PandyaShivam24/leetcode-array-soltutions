@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0912-sort-an-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0537-complex-number-multiplication) |
+| [0682-baseball-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0682-baseball-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2390-removing-stars-from-a-string) |
