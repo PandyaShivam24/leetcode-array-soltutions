@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2974-minimum-number-game) |
+| [3174-clear-digits](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3110-score-of-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3227-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
