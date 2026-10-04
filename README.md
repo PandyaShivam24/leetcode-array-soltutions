@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1544-make-the-string-great](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2000-reverse-prefix-of-word) |
