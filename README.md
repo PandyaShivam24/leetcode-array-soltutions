@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1544-make-the-string-great) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
