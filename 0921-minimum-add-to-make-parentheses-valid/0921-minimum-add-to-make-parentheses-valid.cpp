@@ -2,22 +2,22 @@ class Solution {
 public:
     int minAddToMakeValid(string s) 
     {
-        int open=0,close=0;
-        for(int i=0;i<s.size();i++)
+        int open=0;
+        int close=0;
+        for(char ch:s)
         {
-            if(s[i]=='(')
-            {
-                open++;
-            }
-            else if(s[i]==')'&&open>0)
-            {
-                open--;
-            }
-            else
+            if(ch=='(')
             {
                 close++;
             }
-        }
-        return open+close;
+            else
+            {
+                if(close>0)
+                {close--;}
+                else
+                {open++;}
+            }
+        }    
+        return close+open;
     }
 };
