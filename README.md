@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0287-find-the-duplicate-number) |
+| [0844-backspace-string-compare](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2000-reverse-prefix-of-word) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0537-complex-number-multiplication) |
 | [0682-baseball-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0844-backspace-string-compare) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0537-complex-number-multiplication) |
 | [0709-to-lower-case](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1021-remove-outermost-parentheses) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/1021-remove-outermost-parentheses) |
