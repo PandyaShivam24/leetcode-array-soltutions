@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0164-maximum-gap) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0268-missing-number) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/PandyaShivam24/leetcode-soltutions/tree/master/0844-backspace-string-compare) |
