@@ -2,19 +2,19 @@ class Solution {
 public:
     int maxDepth(string s) 
     {
-        int c=0,maxc=0;
+        int c=0,maxi=0;
         for(int i=0;i<s.size();i++)
         {
             if(s[i]=='(')
             {
                 c++;
             }
-            if(s[i]==')')
+            else if(s[i]==')')
             {
+                maxi=max(c,maxi);
                 c--;
             }
-            maxc=max(maxc,c);
-        }    
-        return maxc;
+        }
+        return maxi;
     }
 };
